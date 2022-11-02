@@ -17,7 +17,6 @@ p=2; % power of exponent
 nmax = 100; % max number of iterations allowed
 sol = 0; % given solution
 
-
 er = ones(1,nmax+1);
 tol = eps('single'); % tolerance for stopping criterion
 
